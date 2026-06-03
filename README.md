@@ -1,10 +1,11 @@
 ## Gideon Obeng
 
-Computational biologist and cell biologist uncovering 
-disease mechanisms through bulk and single cell genomnics.building 
-reproducible single-cell genomics pipelines. PhD in 
-Molecular Pathobiology (Mie University); Postdoctoral 
-Associate at Rutgers NJMS.
+Computational biologist and Cell biologist uncovering disease 
+mechanisms through bulk and single-cell genomics and epigenomics.
+I design reproducible pipelines to transform complex sequencing 
+data into mechanistic insights and biological discoveries. 
+PhD in Molecular Pathobiology (Mie University); 
+Postdoctoral Associate at Rutgers NJMS
 
 ### Featured work
 
