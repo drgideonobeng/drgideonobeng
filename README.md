@@ -29,4 +29,4 @@ clusterProfiler · Signac · Python · Bash
 
 ### Contact
 obgideon@gmail.com · 
-[LinkedIn](https://www.linkedin.com/in/gideonobeng-20622030)
+[LinkedIn](https://www.linkedin.com/in/gideonobeng-20622030/)
