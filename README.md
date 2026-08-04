@@ -17,7 +17,7 @@ DESeq2, GO enrichment. Identifies neural crest loss,
 cardiac maturation impairment, and KO-specific neuronal 
 fate adoption at single-cell resolution.
 
-**[mesp1](https://github.com/drgideonobeng/mesp1)** — 
+**[Mesp1cre-lineage-developmental-atlas](https://github.com/drgideonobeng/mesp1)** — 
 Phased Nextflow pipeline for Mesp1 cardiopharyngeal 
 lineage analysis across E8.0→E10.5. fastMNN integration 
 into a developmental atlas with documented artifact 
