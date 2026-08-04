@@ -9,7 +9,7 @@ Postdoctoral Associate at Rutgers NJMS
 
 ### Featured work
 
-**[tbx1](https://github.com/drgideonobeng/tbx1)** — 
+**[Tbx1-depleted-Tbx1cre-lineage](https://github.com/drgideonobeng/tbx1)** — 
 Four-phase Nextflow pipeline characterizing cell-autonomous 
 Tbx1 loss in cardiopharyngeal progenitors. scVI integration 
 (batch correction with preserved KO phenotype), pseudobulk 
