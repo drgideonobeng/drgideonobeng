@@ -1,6 +1,6 @@
 ## Gideon Obeng
 
-Computational biologist and Cell biologist uncovering disease 
+I am a Computational biologist and Cell biologist, uncovering disease 
 mechanisms through bulk and single-cell genomics and epigenomics.
 I design reproducible pipelines to transform complex sequencing 
 data into mechanistic insights and biological discoveries. 
